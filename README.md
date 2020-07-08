@@ -8,4 +8,6 @@ Winning the game
 ![Desktop](https://media.giphy.com/media/LM32kiMvHnULojbrds/giphy.gif)
 
 Losing the game
+
+
 ![Mobile](https://media.giphy.com/media/QA0Z4Rh6A2juWeMK9E/giphy.gif)
